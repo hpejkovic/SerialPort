@@ -1003,7 +1003,7 @@
             this.label53.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label53.Location = new System.Drawing.Point(861, 619);
             this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(265, 21);
+            this.label53.Size = new System.Drawing.Size(279, 21);
             this.label53.TabIndex = 17;
             this.label53.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
