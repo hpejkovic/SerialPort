@@ -16,5 +16,15 @@ namespace Z30proba
         {
             InitializeComponent();
         }
+
+        private void label28_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label22_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -60,12 +60,6 @@
     <Compile Include="Z30_ConfPanel.Designer.cs">
       <DependentUpon>Z30_ConfPanel.cs</DependentUpon>
     </Compile>
-    <Compile Include="Z30_Conf_Panel.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Z30_Conf_Panel.Designer.cs">
-      <DependentUpon>Z30_Conf_Panel.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -81,9 +75,6 @@
     </Compile>
     <EmbeddedResource Include="Z30_ConfPanel.resx">
       <DependentUpon>Z30_ConfPanel.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Z30_Conf_Panel.resx">
-      <DependentUpon>Z30_Conf_Panel.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
